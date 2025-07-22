@@ -10,8 +10,7 @@ A web application that analyzes facial features from an image to calculate its a
 
 ## 📸 App Preview
 
-![App Screenshot](https://github.com/Ikram-Shaik/Golden_Ratio_Beauty_Analyser.git/app_screenshot.jpg)
-*(Note: Replace the URL above with a direct link to your own screenshot after you upload it to your repository.)*
+![App Screenshot](https://github.com/Ikram-Shaik/Golden_Ratio_Beauty_Analyser/blob/main/app_screenshot.jpg)
 
 ---
 
